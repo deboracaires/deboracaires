@@ -1,59 +1,76 @@
-# <p align='center'> Hi there! I'm Débora Caires! </p>
+# Hello there, I'm Débora Caires
 
-<p> - Aerospace Engineer Student at Universidade de Brasília (UnB) </p>
-<p> - Software Engineer Student at Universidade de Brasília (UnB) </p>
-<p> - Web Development Student at Driven Education </p>
-<p> - Pronouns: She/Her </p>
+<img src="https://github-readme-stats.vercel.app/api?username=deboracaires&show_icons=true&theme=bear&hide_border=true" width="410em" height="180em" align="left" border="none"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracaires&layout=compact&theme=bear&hide_border=true" width="344em" height="180em" border="none" />
 
-<br>
+## About me
 
-<div align="center">
+<ul>
+    <li>💻 Aerospace and Software Engineering student at University of Brasília</li>
+    <li>🌐 Web Development student at Driven Education</li>
+    <li>Full-Stack Web Developer</li>
+    <li>Pronoums [she/her]</li>
+</ul>
 
-  ![Débora's GitHub stats](https://github-readme-stats.vercel.app/api?username=deboracaires&show_icons=true&theme=radical&count_private=true&hide=stars,issues)
-  ![Débora's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deboracaires&show_icons=true&layout=compact&theme=radical)
-  [![Débora's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deboracaires&layout=compact&theme=radical)](https://wakatime.com/@deboracaires)
+
+## Languages you can communicate with me
+* Brazilian Portuguese (native)
+* English (advanced)
+
+## Languages and Tools
+
+### Front-end
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![Create React App](https://img.shields.io/static/v1?style=for-the-badge&message=Create+React+App&color=222222&logo=Create+React+App&logoColor=09D3AC&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
+
+### Back-end & Databases
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) 
+![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
+![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
 
 
-</div>
+### Deploy
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
+![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
 
-<br>
 
-<div align="center">
 
-## Technologies 
+### Productivity
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
+![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
+![Google Calendar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Calendar&color=4285F4&logo=Google+Calendar&logoColor=FFFFFF&label=)
 
-#### **Front-end**
+### Operational Systems
+![Pop!_OS](https://img.shields.io/static/v1?style=for-the-badge&message=Pop%21_OS&color=222222&logo=Pop%21_OS&logoColor=48B9C7&label=)
+![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
+![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 
-![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Styled-Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+### Version control
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
-#### **Back-end**
+ ---
 
-![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+### Connect with me:
+[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)][instagram]
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)][telegram]
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)][linkedin]
+[![Microsoft Outlook](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label=)][outlook]
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)][gmail]
 
-#### **Tools**
+[instagram]: https://www.instagram.com/deboracaires_/
+[linkedin]: https://www.linkedin.com/in/deboracaires/
+[telegram]: https://t.me/adrianofcc
+[outlook]: mailto:debora.caires.mor@outlook.com
+[gmail]: mailto:debora.caires.mor@gmail.com
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-FFF?style=for-the-badge&logo=npm)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=for-the-badge&logo=ESLint)
-![husky](https://img.shields.io/badge/Husky-b0b0d5?style=for-the-badge)
 
-  
-  ## Contact me!
-  
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debora.caires.mor@gmail.com)
-  
-</div>
-<!-- https://github.com/anuraghazra/github-readme-stats#themes -->

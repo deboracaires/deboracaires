@@ -6,9 +6,8 @@
 ## About me
 
 <ul>
-    <li>💻 Aerospace and Software Engineering student at University of Brasília</li>
-    <li>🌐 Web Development student at Driven Education</li>
     <li>Full-Stack Web Developer</li>
+    <li>💻 Aerospace and Software Engineering student at University of Brasília</li>
     <li>Pronoums [she/her]</li>
 </ul>
 
@@ -61,16 +60,12 @@
  ---
 
 ### Connect with me:
-[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)][instagram]
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)][telegram]
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)][linkedin]
-[![Microsoft Outlook](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label=)][outlook]
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)][gmail]
 
-[instagram]: https://www.instagram.com/deboracaires_/
 [linkedin]: https://www.linkedin.com/in/deboracaires/
-[telegram]: https://t.me/adrianofcc
-[outlook]: mailto:debora.caires.mor@outlook.com
+[telegram]: https://t.me/deboracaires
 [gmail]: mailto:debora.caires.mor@gmail.com
 
 
